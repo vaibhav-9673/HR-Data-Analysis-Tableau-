@@ -7,23 +7,24 @@ This HR analytics Tableau project is aimed at providing HR managers and business
 
 <img width="1400" height="700" alt="image" src="https://github.com/user-attachments/assets/7199b875-df9c-4a6b-84ac-379e2afdcf00" />
 ### B) STEPS OVERVIEW:
-Data subset collected from online.
-Understanding the Data.
-Loading Libraries.
-Data Cleaning & Finding Missing values.
-Data Visualization.
+<br>1) Data subset collected from online.
+<br>2) Understanding the Data.
+<br>3) Loading Libraries.
+<br>4) Data Cleaning & Finding Missing values.
+<br>5) Data Visualization.
 
 ### C) DATA CLEANING:
-Open Dataset in Excel and Make a Copy of Dataset for security purpose.
-Remove Duplicates.
-Change the formatting of necessary columns.
-Spell Check.
-Change Case - Lower/Upper/Proper.
-Trim the unwanted spaces.
-Remove null values if its not going to affect the result.
-Find & Replace.
+<br>1. Open Dataset in Excel and Make a Copy of Dataset for security purpose.
+<br>2. Remove Duplicates.
+<br>3. Change the formatting of necessary columns.
+<br>4. Spell Check.
+<br>5. Change Case - Lower/Upper/Proper.
+<br>6. Trim the unwanted spaces.
+<br>7. Remove null values if its not going to affect the result.
+<br>8. Find & Replace.
 
 ### D) DASHBOARD CONTENT:
+```
 1st Sheet: KPI of Employee Count, Attrition Count, Attrition Rate, Active Employees and Average Age.
 2nd Sheet: Attrition by Gender (Lollipop Chart)
 3rd Sheet: Department wise Attrition (Pie Chart)
@@ -31,6 +32,7 @@ Find & Replace.
 5th Sheet: Job Satisfaction Rating (Square Chart)
 6th Sheet: Education Field wise Attrition (Vertical Bar Graph)
 7th Sheet: Education Field wise Attrition (Donut Plot)
+```
 
 ### E) DASHBOARD:
 <img width="1580" height="900" alt="image" src="https://github.com/user-attachments/assets/05219f9f-eb65-401e-bd0d-57e0b416fb0c" />
@@ -44,7 +46,7 @@ The HR Analytics Tableau Dashboard effectively empowers HR managers and business
 
 ### Author
 ##### Vaibhav Ashok Gade
-Data Analyst | Tableau Enthusiast
-Passionate about transforming raw data into meaningful insights through analytics and visualization. Skilled in Excel, MySQL, Power BI, and Tableau, with a focus on creating data-driven solutions for business growth.
+<br>Data Analyst | Tableau Enthusiast
+<br>Passionate about transforming raw data into meaningful insights through analytics and visualization. Skilled in Excel, MySQL, Power BI, and Tableau, with a focus on creating data-driven solutions for business growth.
 
 

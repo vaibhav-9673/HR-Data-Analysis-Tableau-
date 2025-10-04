@@ -46,7 +46,7 @@ The HR Analytics Dashboard project using Tableau is designed to provide insights
 The HR Analytics Tableau Dashboard effectively empowers HR managers and business leaders to make informed, data-driven decisions regarding employee retention, development, and recruitment. By integrating interactive charts, trendlines, and target lines, the dashboard provides a clear visual understanding of workforce patterns and attrition trends.The inclusion of filters and legends allows users to explore employee data across multiple dimensions—such as gender, age group, education field, and job satisfaction—enabling deeper insights into factors influencing attrition and employee engagement. Overall, this project demonstrates how data visualization can transform complex HR data into actionable intelligence, helping organizations identify problem areas, improve employee satisfaction, and strategically reduce attrition rates.
 
 ### Author
-##### Vaibhav Ashok Gade
+#### Vaibhav Ashok Gade
 <br>Data Analyst | Tableau Enthusiast
 <br>Passionate about transforming raw data into meaningful insights through analytics and visualization. Skilled in Excel, MySQL, Power BI, and Tableau, with a focus on creating data-driven solutions for business growth.
 
